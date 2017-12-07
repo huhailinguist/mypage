@@ -4,7 +4,7 @@ My name is 胡(Hu) 海(Hai), but in English people say it in the reverse way, wh
  
 I’m a Ph.D. student in (Computational) Linguistics at Indiana University Bloomington. 
  
-Most of my research interests: Chinese linguistics, parsing, syntactic differences among different texts. See my [Publication & projects](projects/) page for more information. 
+Most of my research interests: Chinese linguistics, parsing, syntactic differences among different texts.  
 
 ## Publication & projects
 
@@ -12,12 +12,12 @@ Most of my research interests: Chinese linguistics, parsing, syntactic differenc
 
 Hu, Hai, Dannial Dakota, and Sandra Kübler (2017). [Non-Deterministic Segmentation for Chinese Lattice Parsing](http://acl-bg.org/proceedings/2017/RANLP%202017/pdf/RANLP043.pdf){:target="_blank"}. In *Proceedings of Recent Advances of Natural Language Processing 2017*. Varna, Bulgaria.
 
-[bib](ranlp2017.bib)
+[bib](projects/ranlp2017.bib)
 
 
 ### Usage of English acronyms in Chinese text
 
-Hu, Hai (2016). [Is China entering WTO or shijie maoyi zuzhi–A Corpus-based Study of English Acronyms in Chinese Newspapers](https://arxiv.org/abs/1711.06895){:target="_blank"}. In: *Proceedings of 28th North America Conference on Chinese Linguistics*. Provo, Utah.
+Hu, Hai (2016). [Is China entering WTO or *shijie maoyi zuzhi*–A Corpus-based Study of English Acronyms in Chinese Newspapers](https://arxiv.org/abs/1711.06895){:target="_blank"}. In: *Proceedings of 28th North America Conference on Chinese Linguistics*. Provo, Utah.
 
 abstract, presented at [NACCL 28](http://www.chineselinguistics.byu.edu/){:target="_blank"}
 
