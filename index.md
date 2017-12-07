@@ -1,4 +1,4 @@
-# Homepage of Hai
+# Hi, I'm HAI
 
 My name is 胡(Hu) 海(Hai), but in English people say it in the reverse way, which sounds more like: Hi! Who?
  
@@ -6,9 +6,9 @@ I’m a Ph.D. student in (Computational) Linguistics at Indiana University Bloom
  
 Most of my research interests: Chinese linguistics, parsing, syntactic differences among different texts.  
 
-## Publication & projects
+## PUBLICATIONS & PROJECTS
 
-### Chinese segmentation and parsing.
+### Chinese segmentation and parsing
 
 Hu, Hai, Dannial Dakota, and Sandra Kübler (2017). [Non-Deterministic Segmentation for Chinese Lattice Parsing](http://acl-bg.org/proceedings/2017/RANLP%202017/pdf/RANLP043.pdf){:target="_blank"}. In *Proceedings of Recent Advances of Natural Language Processing 2017*. Varna, Bulgaria.
 
